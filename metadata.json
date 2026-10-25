@@ -1,0 +1,8 @@
+{
+  "name": "Remix NPCI UPI Annual Trends Analytics \u0026 Visualizations",
+  "description": "Comprehensive analytical dashboard featuring 10 in-depth analyses, statistical correlation models, growth dynamics, and reporting completeness metrics for the NPCI Aggregated Annual Trends dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
