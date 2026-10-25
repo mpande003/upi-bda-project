@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/180b54e3-ceba-4f61-b37b-8d5a4
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# upi-bda-project
